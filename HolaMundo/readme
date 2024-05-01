@@ -1,0 +1,3 @@
+#compilador:dev c++
+#version:5.11
+#version compilador:tdm-gcc 4.9.2
